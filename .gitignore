@@ -1,0 +1,26 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and cache
+.vscode/
+.idea/
+.cache/
+*.log
+
+# Power BI and Tableau temp/cache files
+*.pbix.temp
+*.twb~
+*.twbx~
+*.bak
+
+# Dataset files (keep only small samples)
+*.csv
+*.xlsx
+*.xls
+*.ods
+*.zip
+*.rar
+
+# Local exports
+/exports/
