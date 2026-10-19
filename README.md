@@ -1,34 +1,11 @@
-# 📈 Dashboard Projects
+# Estudos de dashboards
 
-A collection of interactive dashboards built with **Power BI** and **Tableau Public**, designed to transform data into actionable insights.
+**Estado: planejamento encerrado; preservado como histórico de estudos.**
 
----
+Este repositório foi iniciado em 2025. Os exemplos descritos na versão anterior do README eram planos e não correspondem a implementações disponíveis no branch principal. Não há entregas funcionais para executar neste repositório e não há manutenção ativa prevista.
 
-## 🧩 Overview
-This repository showcases data visualization projects focused on:
-- Building reports with KPIs and dynamic filters  
-- Storytelling through clean and interactive visuals  
-- Applying best practices for business intelligence (BI) design  
-- Publishing dashboards for public access  
+O foco atual é desenvolver ferramentas para a rotina jurídica e manter uma frente cristocêntrica paralela. Acompanhe o [perfil de Rafael Rezende](https://github.com/ragrezende).
 
----
+O histórico Git foi preservado. Não há dados de clientes neste projeto.
 
-## 📊 Featured Dashboards
-| Dashboard | Description | Tool |
-|------------|--------------|------|
-| **Sales 2024 Report** | Monthly sales analysis with KPIs, trends, and regional breakdowns | Power BI |
-| **COVID Insights** | Global pandemic trends and vaccine distribution dashboard | Tableau Public |
-| **Personal Finance Tracker** | Expense and income dashboard with categorized summaries | Power BI |
-
----
-
-## 🧠 Skills Demonstrated
-✅ Data storytelling and visual design  
-✅ DAX measures and calculated columns  
-✅ Dashboard interactivity (filters, buttons, navigation)  
-✅ Business-oriented reporting and presentation  
-
----
-
-## 🗂️ Repository Structure
-
+<!-- Atualizado com apoio do Codex em 19/10/2026, conforme direção aprovada por Rafael. -->
